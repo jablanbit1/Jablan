@@ -1,4 +1,4 @@
 print("!")
 x = 2 + 3
-print("Danas je petak")
+print("Nova izmena na devu")
 
